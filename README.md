@@ -30,7 +30,7 @@ Web-приложение для обмена книгами _(book sharing)_.
   - **Запускаем**
     - node index.js
 
-![](https://github.com/Ereme007/BookSharing.../pictures/1.PNG)
+![](https://github.com/Ereme007/BookSharing.../pictures//1.PNG)
 ![](https://github.com/Ereme007/BookSharing.../pictures/2.PNG)
 ![](https://github.com/Ereme007/BookSharing.../pictures/3.PNG)
 ![](https://github.com/Ereme007/BookSharing.../pictures/4.PNG)
