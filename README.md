@@ -30,8 +30,8 @@ Web-приложение для обмена книгами _(book sharing)_.
   - **Запускаем**
     - node index.js
 
-![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/1.PNG)
-![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/2.PNG)
-![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/3.PNG)
-![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/4.PNG)
-![](https://github.com/ArinaMak/BookSharing/blob/main/libweb/pictures/5.PNG)
+![](https://github.com/Ereme007/BookSharing.../pictures/1.PNG)
+![](https://github.com/Ereme007/BookSharing.../pictures/2.PNG)
+![](https://github.com/Ereme007/BookSharing.../pictures/3.PNG)
+![](https://github.com/Ereme007/BookSharing.../pictures/4.PNG)
+![](https://github.com/Ereme007/BookSharing.../pictures/5.PNG)
