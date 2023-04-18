@@ -1,11 +1,12 @@
+require('dotenv').config();
 const mysql = require('mysql')
 
 function connectingToDB() {
     const db = mysql.createConnection({
-        host: "localhost",
-        user: "root",
-        database: "libweb",
-        password: "AcbD1324_"
+        host: process.env.HOST,
+        user: process.env.USER,
+        database: process.env.NAME_BASE,//database: "libweb",
+        password: process.env.PASSWORD
     });
     return db;
 }
