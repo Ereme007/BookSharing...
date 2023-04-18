@@ -1,4 +1,4 @@
-# BookSharing(WebLib)
+# BookSharing
 
 Web-приложение для обмена книгами _(book sharing)_.
 
