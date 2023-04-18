@@ -1,0 +1,28 @@
+#bookshelf_input {
+    width: 100%;
+  /* border-bottom: 1px #eeeeee solid; */
+}
+#results{
+    display: inline-flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+
+.book_item_box {
+     border: 3px solid transparent;
+     border-image: linear-gradient(90deg, red 0%, #15d435 100%) 20% / 1 / 0 stretch;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+}
+	
+
+.dices_button{
+    display: inline-block;
+    vertical-align: -12px;
+    margin: 0 0 0 15px;
+}
+
+
+
