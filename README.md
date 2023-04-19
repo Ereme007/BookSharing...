@@ -27,8 +27,11 @@ Web-приложение для обмена книгами _(book sharing)_.
     - npm i -D nodemon
     - npm i mysql
     - npm i cors
+    - npm i devenv
   - **Запускаем**
     - node index.js
+
+для того, чтобы полулючиться к Вашей базе данных, можно обратиться к файлу .env и поменять значения (в папке server)
 
 ![](https://github.com/Ereme007/BookSharing.../blob/main/pictures/1.png)
 ![](https://github.com/Ereme007/BookSharing.../blob/main/pictures/2.png)
